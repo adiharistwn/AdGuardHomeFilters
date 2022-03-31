@@ -1,0 +1,104 @@
+# Ad Blocker Test - https://d3ward.github.io/toolz/adblock.html
+!  Ads
+||media.net^
+||fastclick.com^
+||fastclick.net^
+||adtago.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||affiliationjs.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
+||amazonaax.com^
+||amazonclix.com^
+||assoc-amazon.com^
+!  Analytics
+||hotjar.com^
+||api-hotjar.com^
+||hotjar-analytics.com^
+||mouseflow.com^
+||freshmarketer.com^
+||luckyorange.com^
+||luckyorange.net^
+||stats.wp.com^
+!  Error Trackers
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+!  Social Trackers
+||ads-twitter.com^
+||ads.linkedin.com^
+||analytics.pointdrive.linkedin.com^
+||ads.pinterest.com^
+||log.pinterest.com^
+||ads-dev.pinterest.com^
+||analytics.pinterest.com^
+||trk.pinterest.com^
+||widgets.pinterest.com^
+||ads.reddit.com^
+||d.reddit.com^
+||rereddit.com^
+||events.redditmedia.com^
+||youtube.cleverads.vn^
+!  Mix
+||ads.yahoo.com^
+||global.adserver.yahoo.com^
+||analytics.yahoo.com^
+||ads.yap.yahoo.com^
+||appmetrica.yandex.com^
+||yandexadexchange.net^
+||analytics.mobile.yandex.net^
+||extmaps-api.yandex.net^
+||adsdk.yandex.ru^
+!  OEM - Xiaomi
+||api.ad.xiaomi.com^
+||app.chat.xiaomi.net^
+||data.mistat.xiaomi.com^
+||data.mistat.intl.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||globalapi.ad.xiaomi.com^
+||www.cdn.ad.xiaomi.com^
+||tracking.miui.com^
+||sa.api.intl.miui.com^
+||tracking.miui.com^
+||tracking.intl.miui.com^
+||tracking.india.miui.com^
+||tracking.rus.miui.com^
+!  OEM - Huawei
+||metrics.data.hicloud.com^
+||metrics1.data.hicloud.com^
+||metrics2.data.hicloud.com^
+||metrics3.data.hicloud.com^
+||metrics4.data.hicloud.com^
+||metrics5.data.hicloud.com^
+||logservice.hicloud.com^
+||logservice1.hicloud.com^
+||metrics-dra.dt.hicloud.com^
+||logbak.hicloud.com^
+!  OEM - OnePlus
+||analytics.oneplus.cn^
+||click.oneplus.cn^
+||click.oneplus.com^
+||open.oneplus.net^
+!  OEM - Samsung
+||samsungadhub.com^
+||samsungads.com^
+||smetrics.samsung.com^
+||nmetrics.samsung.com^
+||samsung-com.112.2o7.net^
+||business.samsungusa.com^
+||analytics.samsungknox.com^
+||bigdata.ssp.samsung.com^
+||analytics-api.samsunghealthcn.com^
+||config.samsungads.com^
+!  OEM - Apple
+||metrics.apple.com^
+||securemetrics.apple.com^
+||supportmetrics.apple.com^
+||metrics.icloud.com^
+||metrics.mzstatic.com^
