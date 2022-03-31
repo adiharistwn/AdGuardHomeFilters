@@ -58,12 +58,15 @@
 ||stats.wp.com^
 !
 !  Error Trackers
+#- Bugsnag
 ||notify.bugsnag.com^
 ||sessions.bugsnag.com^
 ||api.bugsnag.com^
 ||app.bugsnag.com^
+#- Sentry
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
+!
 !  Social Trackers
 ||pixel.facebook.com^
 ||analytics.facebook.com^
