@@ -1,6 +1,16 @@
-# Ad Blocker Test - https://d3ward.github.io/toolz/adblock.html
+# Ad Blocker Test 100% - https://d3ward.github.io/toolz/adblock.html
 !  Ads
+||pagead2.googlesyndication.com^
+||ads.google.com^
+||adservice.google.com^
+||pagead2.googleadservices.com^
+||googleadservices.com^
 ||media.net^
+||doubleclick.net^
+||ad.doubleclick.net^
+||static.doubleclick.net^
+||m.doubleclick.net^
+||mediavisor.doubleclick.net^
 ||fastclick.com^
 ||fastclick.net^
 ||adtago.s3.amazonaws.com^
@@ -12,6 +22,8 @@
 ||amazonclix.com^
 ||assoc-amazon.com^
 !  Analytics
+||google-analytics.com^
+||ssl.google-analytics.com^
 ||hotjar.com^
 ||api-hotjar.com^
 ||hotjar-analytics.com^
@@ -28,7 +40,13 @@
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
 !  Social Trackers
+||pixel.facebook.com^
+||analytics.facebook.com^
+||ads.facebook.com^
+||an.facebook.com^
 ||ads-twitter.com^
+||ads-api.twitter.com^
+||advertising.twitter.com^
 ||ads.linkedin.com^
 ||analytics.pointdrive.linkedin.com^
 ||ads.pinterest.com^
@@ -42,6 +60,11 @@
 ||rereddit.com^
 ||events.redditmedia.com^
 ||youtube.cleverads.vn^
+||ads.youtube.com^
+||analytics-sg.tiktok.com^
+||ads-sg.tiktok.com^
+||analytics.tiktok.com^
+||ads.tiktok.com^
 !  Mix
 ||ads.yahoo.com^
 ||global.adserver.yahoo.com^
