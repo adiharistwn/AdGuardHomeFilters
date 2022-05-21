@@ -1,28 +1,28 @@
 # Ad Blocker Test 100% - https://d3ward.github.io/toolz/adblock.html
 !
 !  Ads
-#- Google Ads
+## Google Ads
 ||pagead2.googlesyndication.com^
 ||ads.google.com^
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
 ||googleadservices.com^
-#- Media.net
+## Media.net
 ||static.media.net^
 ||media.net^
 ||adservetx.media.net^
-#- Doubleclick.net
+## Doubleclick.net
 ||doubleclick.net^
 ||ad.doubleclick.net^
 ||static.doubleclick.net^
 ||m.doubleclick.net^
 ||mediavisor.doubleclick.net^
-#- FastClick
+## FastClick
 ||fastclick.com^
 ||fastclick.net^
 ||media.fastclick.net^
 ||cdn.fastclick.net^
-#- Amazon
+## Amazon
 ||adtago.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 ||advice-ads.s3.amazonaws.com^
@@ -33,20 +33,20 @@
 ||assoc-amazon.com^
 !
 !  Analytics
-#- Google Analytics
+## Google Analytics
 ||google-analytics.com^
 ||ssl.google-analytics.com^
-#- Hotjar
+## Hotjar
 ||hotjar.com^
 ||static.hotjar.com^
 ||api-hotjar.com^
 ||hotjar-analytics.com^
-#- MouseFlow
+## MouseFlow
 ||mouseflow.com^
 ||a.mouseflow.com^
-#- FreshMarketer
+## FreshMarketer
 ||freshmarketer.com^
-#- Luckyorange
+## Luckyorange
 ||luckyorange.com^
 ||cdn.luckyorange.com^
 ||w1.luckyorange.com^
@@ -54,56 +54,69 @@
 ||upload.luckyorange.net^
 ||cs.luckyorange.net^
 ||settings.luckyorange.net^
-#- Stats WP Plugin
+## Stats WP Plugin
 ||stats.wp.com^
 !
 !  Error Trackers
-#- Bugsnag
+## Bugsnag
 ||notify.bugsnag.com^
 ||sessions.bugsnag.com^
 ||api.bugsnag.com^
 ||app.bugsnag.com^
-#- Sentry
+## Sentry
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
 !
 !  Social Trackers
+## Facebook
 ||pixel.facebook.com^
 ||analytics.facebook.com^
 ||ads.facebook.com^
 ||an.facebook.com^
+## Twitter
 ||ads-twitter.com^
+||static.ads-twitter.com^
 ||ads-api.twitter.com^
 ||advertising.twitter.com^
+## LinkedIn
 ||ads.linkedin.com^
 ||analytics.pointdrive.linkedin.com^
+## Pinterest
 ||ads.pinterest.com^
 ||log.pinterest.com^
 ||ads-dev.pinterest.com^
 ||analytics.pinterest.com^
 ||trk.pinterest.com^
 ||widgets.pinterest.com^
+## Reddit
 ||ads.reddit.com^
 ||d.reddit.com^
 ||rereddit.com^
 ||events.redditmedia.com^
+## YouTube
 ||youtube.cleverads.vn^
 ||ads.youtube.com^
+## TikTok
 ||analytics-sg.tiktok.com^
 ||ads-sg.tiktok.com^
 ||analytics.tiktok.com^
 ||ads.tiktok.com^
+!
 !  Mix
+## Yahoo
 ||ads.yahoo.com^
 ||global.adserver.yahoo.com^
 ||analytics.yahoo.com^
 ||ads.yap.yahoo.com^
+## Yandex
 ||appmetrica.yandex.com^
 ||yandexadexchange.net^
 ||analytics.mobile.yandex.net^
 ||extmaps-api.yandex.net^
 ||adsdk.yandex.ru^
-!  OEM - Xiaomi
+!
+!  OEM
+## Xiaomi
 ||api.ad.xiaomi.com^
 ||app.chat.xiaomi.net^
 ||data.mistat.xiaomi.com^
@@ -120,7 +133,7 @@
 ||tracking.intl.miui.com^
 ||tracking.india.miui.com^
 ||tracking.rus.miui.com^
-!  OEM - Huawei
+## Huawei
 ||metrics.data.hicloud.com^
 ||metrics1.data.hicloud.com^
 ||metrics2.data.hicloud.com^
@@ -131,12 +144,12 @@
 ||logservice1.hicloud.com^
 ||metrics-dra.dt.hicloud.com^
 ||logbak.hicloud.com^
-!  OEM - OnePlus
+## OnePlus
 ||analytics.oneplus.cn^
 ||click.oneplus.cn^
 ||click.oneplus.com^
 ||open.oneplus.net^
-!  OEM - Samsung
+## Samsung
 ||samsungadhub.com^
 ||samsungads.com^
 ||smetrics.samsung.com^
@@ -147,7 +160,7 @@
 ||bigdata.ssp.samsung.com^
 ||analytics-api.samsunghealthcn.com^
 ||config.samsungads.com^
-!  OEM - Apple
+## Apple
 ||metrics.apple.com^
 ||securemetrics.apple.com^
 ||supportmetrics.apple.com^
